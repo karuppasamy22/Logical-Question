@@ -11,7 +11,7 @@ void main()
        if('A'<=s[k] && s[k]<='Z'){
 	 total+=!input[s[k]-'A'];
 	 input[s[k]-'A']=1;
-	}              m
+	}              
 	else if('a'<=s[k] && s[k]<='z'){
 	 total+=!input[s[k]-'a'];
 	 input[s[k]-'a']=1;
